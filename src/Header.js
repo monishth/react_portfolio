@@ -11,7 +11,12 @@ function Header() {
         <div className="logo-container">
           <img className="logo" src={logo} alt="Logo" />
         </div>
-        <p>@mt.clicks</p>
+        <p>
+          <b>@mt.clicks</b>
+        </p>
+        <div style={{ fontSize: '1rem', marginBottom: '0.5rem' }}>
+          London based photographer
+        </div>
         <div className="socialLinks">
           <SocialIcon
             url="https://www.instagram.com/mt.clicks"

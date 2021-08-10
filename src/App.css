@@ -16,7 +16,6 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  font-weight: bold;
   color: white;
   box-sizing: border-box;
   box-shadow: 0 35px 45px 0 rgb(0 0 0 / 13%);
@@ -58,7 +57,7 @@
 
   display: grid;
   gap: 3vw;
-  margin: 1rem auto 1rem;
+  margin: 1rem auto 2rem;
 }
 
 .image {
@@ -71,10 +70,19 @@
 @media screen and (min-width: 600px) {
   .gallery-container {
     grid-template-columns: repeat(3, 1fr);
-    margin: 1rem 1rem 1rem !important;
+    margin: 1rem 1rem 2rem !important;
   }
   .image {
     max-width: 30vw;
     margin: 0;
   }
+}
+
+.footer {
+  display: block;
+  min-height: 10vh;
+  background-color: #272d38;
+  color: white;
+  padding: 1rem;
+  text-align: start;
 }
