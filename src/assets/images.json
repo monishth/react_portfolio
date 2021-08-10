@@ -7,20 +7,7 @@
         "description": "SKShoot1"
       }
     },
-    {
-      "name": "skshoot2",
-      "url": "http://cdn.mtclicks.studio/97.jpg",
-      "project": {
-        "description": "SKShoot2"
-      }
-    },
-    {
-      "name": "skshoot3",
-      "url": "http://cdn.mtclicks.studio/99.jpg",
-      "project": {
-        "description": "SKShoot1"
-      }
-    },
+
     {
       "name": "album-cover",
       "url": "http://cdn.mtclicks.studio/8.jpg",
@@ -43,6 +30,13 @@
       "project": {
         "description": "London skyline at night",
         "location": "London, UK"
+      }
+    },
+    {
+      "name": "skshoot3",
+      "url": "http://cdn.mtclicks.studio/99.jpg",
+      "project": {
+        "description": "SKShoot1"
       }
     },
     {
@@ -83,6 +77,13 @@
       "project": {
         "description": "Autumn tree",
         "location": "Nottingham, UK"
+      }
+    },
+    {
+      "name": "skshoot2",
+      "url": "http://cdn.mtclicks.studio/97.jpg",
+      "project": {
+        "description": "SKShoot2"
       }
     },
     {

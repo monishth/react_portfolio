@@ -14,7 +14,7 @@ function Header() {
           <b>@mt.clicks</b>
         </p>
         <div style={{ fontSize: '1rem', marginBottom: '0.5rem' }}>
-          London based photographer
+          📍 London
         </div>
         <div className="socialLinks">
           <SocialIcon
