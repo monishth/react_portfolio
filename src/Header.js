@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 import logo from './assets/logo.png';
 import { SocialIcon } from 'react-social-icons';
 

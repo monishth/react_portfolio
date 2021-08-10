@@ -20,7 +20,7 @@ function Gallery() {
 
   useEffect(() => {
     getImages();
-  }, []);
+  });
 
   if (isLoading) {
     return (
