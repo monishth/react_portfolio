@@ -52,12 +52,13 @@
 }
 
 .gallery-container {
-  width: 90vw;
-  max-width: 1170px;
+  /* width: 90vw; */
+  max-width: 900px;
 
   display: grid;
   gap: 3vw;
   margin: 1rem auto 2rem;
+  justify-items: center;
 }
 
 .image {
@@ -67,13 +68,12 @@
   margin-right: auto;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 900px) {
   .gallery-container {
     grid-template-columns: repeat(3, 1fr);
-    margin: 1rem 1rem 2rem !important;
   }
   .image {
-    max-width: 30vw;
+    max-width: 100%;
     margin: 0;
   }
 }
