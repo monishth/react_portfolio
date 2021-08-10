@@ -3,71 +3,95 @@
     {
       "name": "skshoot1",
       "url": "http://cdn.mtclicks.studio/2.jpg",
-      "description": "SKShoot1"
+      "project": {
+        "description": "SKShoot1"
+      }
     },
     {
       "name": "skshoot2",
       "url": "http://cdn.mtclicks.studio/97.jpg",
-      "description": "SKShoot2"
+      "project": {
+        "description": "SKShoot2"
+      }
     },
     {
       "name": "skshoot3",
       "url": "http://cdn.mtclicks.studio/99.jpg",
-      "description": "SKShoot1"
+      "project": {
+        "description": "SKShoot1"
+      }
     },
     {
       "name": "album-cover",
       "url": "http://cdn.mtclicks.studio/8.jpg",
-      "description": "Album Cover",
-      "location": "Nottingham, UK"
+      "project": {
+        "description": "Album Cover",
+        "location": "Nottingham, UK"
+      }
     },
     {
       "name": "oldman",
       "url": "http://cdn.mtclicks.studio/6.jpg",
-      "description": "Old Man",
-      "location": "London, UK"
+      "project": {
+        "description": "Old Man",
+        "location": "London, UK"
+      }
     },
     {
       "name": "night",
       "url": "http://cdn.mtclicks.studio/3.jpg",
-      "description": "London skyline at night",
-      "location": "London, UK"
+      "project": {
+        "description": "London skyline at night",
+        "location": "London, UK"
+      }
     },
     {
       "name": "dani",
       "url": "http://cdn.mtclicks.studio/98.jpg",
-      "description": "Dani on tree",
-      "location": "Bluebell woods, London, UK"
+      "project": {
+        "description": "Dani on tree",
+        "location": "Bluebell woods, London, UK"
+      }
     },
     {
       "name": "car",
       "url": "http://cdn.mtclicks.studio/4.jpg",
-      "description": "car in alleyway",
-      "location": "London, UK"
+      "project": {
+        "description": "car in alleyway",
+        "location": "London, UK"
+      }
     },
     {
       "name": "juhi-head",
       "url": "http://cdn.mtclicks.studio/8.jpg",
-      "description": "Juhi's head",
-      "location": "London, UK"
+      "project": {
+        "description": "Juhi's head",
+        "location": "London, UK"
+      }
     },
     {
       "name": "bt-tower",
       "url": "http://cdn.mtclicks.studio/1.jpg",
-      "description": "Euston view",
-      "location": "London, UK"
+      "project": {
+        "description": "Euston view",
+        "location": "London, UK"
+      }
     },
     {
       "name": "notts-tree",
       "url": "http://cdn.mtclicks.studio/5.jpg",
-      "description": "Autumn tree",
-      "location": "Nottingham, UK"
+      "project": {
+        "description": "Autumn tree",
+        "location": "Nottingham, UK"
+      }
     },
     {
       "name": "shoreditch",
       "url": "http://cdn.mtclicks.studio/7.jpg",
-      "description": "Shoreditch art",
-      "location": "Shoreditch, UK"
+      "project": {
+        "description": "Shoreditch art",
+        "location": "Shoreditch, UK"
+      }
     }
   ]
 }

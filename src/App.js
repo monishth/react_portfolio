@@ -3,6 +3,7 @@ import React from 'react';
 import { Helmet } from 'react-helmet';
 import Header from './Header';
 import Footer from './Footer';
+import Project from './Project';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Gallery from './Gallery';
 function App() {
@@ -25,7 +26,10 @@ function App() {
           <Route path="/">
             <Gallery />
           </Route>
-          <Route path="/projects/:id"></Route>
+          <Route
+            path="/projects/:id"
+            render={(props) => <Project {...props} />}
+          ></Route>
         </Switch>
         <Footer />
       </Router>
